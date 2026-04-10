@@ -23,6 +23,4 @@ public class Persona {
         mujer.presentarse();
     }
 
-
-
 }
